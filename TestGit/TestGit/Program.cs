@@ -11,7 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
 
-            string txt = "Hello Test of Git Repository System....";
+            string txt = "Hello Test of Git Repository System..";
             Console.WriteLine(txt);
         }
     }
